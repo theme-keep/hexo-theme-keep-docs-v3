@@ -1,1 +1,0 @@
-import{_ as s,c as e,o as a,a as n}from"./app.f1d00a47.js";const y=JSON.parse('{"title":"\u5B89\u88C5\u4E3B\u9898","description":"","frontmatter":{},"headers":[],"relativePath":"guide/install-theme.md"}'),p={name:"guide/install-theme.md"},l=n("",10),o=[l];function t(c,i,r,d,h,C){return a(),e("div",null,o)}const u=s(p,[["render",t]]);export{y as __pageData,u as default};
