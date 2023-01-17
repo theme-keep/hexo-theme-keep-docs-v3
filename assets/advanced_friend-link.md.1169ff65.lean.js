@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.a8d6a9cf.js";const D=JSON.parse('{"title":"友链样式","description":"","frontmatter":{},"headers":[],"relativePath":"advanced/friend-link.md","lastUpdated":1673949319000}'),p={name:"advanced/friend-link.md"},e=l("",4),o=[e];function c(t,r,i,d,y,C){return a(),n("div",null,o)}const A=s(p,[["render",c]]);export{D as __pageData,A as default};
