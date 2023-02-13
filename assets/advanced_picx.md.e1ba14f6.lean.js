@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as r}from"./app.a91b4672.js";const u=JSON.parse('{"title":"图床问题","description":"","frontmatter":{},"headers":[],"relativePath":"advanced/picx.md","lastUpdated":1676276108000}'),c={name:"advanced/picx.md"},i=r("",6),o=[i];function p(s,n,l,_,d,h){return a(),t("div",null,o)}const x=e(c,[["render",p]]);export{u as __pageData,x as default};

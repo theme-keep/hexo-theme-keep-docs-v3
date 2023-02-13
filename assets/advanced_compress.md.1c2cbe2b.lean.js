@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as s,a as n}from"./app.a91b4672.js";const u=JSON.parse('{"title":"资源压缩","description":"","frontmatter":{},"headers":[],"relativePath":"advanced/compress.md","lastUpdated":1676276108000}'),l={name:"advanced/compress.md"},o=n("",5),t=[o];function r(i,p,c,d,m,h){return s(),a("div",null,t)}const b=e(l,[["render",r]]);export{u as __pageData,b as default};
