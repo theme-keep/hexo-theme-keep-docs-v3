@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,a as l}from"./app.a91b4672.js";const D=JSON.parse('{"title":"数学公式","description":"","frontmatter":{},"headers":[],"relativePath":"advanced/mathjax.md","lastUpdated":1676276108000}'),e={name:"advanced/mathjax.md"},p=l("",4),o=[p];function t(r,c,i,y,C,d){return n(),a("div",null,o)}const b=s(e,[["render",t]]);export{D as __pageData,b as default};
