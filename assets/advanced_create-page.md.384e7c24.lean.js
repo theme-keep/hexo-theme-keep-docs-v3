@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as e}from"./app.57c34715.js";const y=JSON.parse('{"title":"创建页面","description":"","frontmatter":{},"headers":[],"relativePath":"advanced/create-page.md","lastUpdated":1676443546000}'),l={name:"advanced/create-page.md"},p=e("",5),o=[p];function t(c,r,i,d,b,u){return n(),a("div",null,o)}const C=s(l,[["render",t]]);export{y as __pageData,C as default};
