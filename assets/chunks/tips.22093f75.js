@@ -1,0 +1,1 @@
+import{_,v as s,b as c}from"./framework.70afa331.js";const e={},t={class:"tips"};function n(o,a){return s(),c("div",t," 配置指南的目录结构跟主题配置文件 _config.yml 的配置项保持一一对应，方便查看。 ")}const i=_(e,[["render",n],["__scopeId","data-v-acd46765"]]);export{i as T};
